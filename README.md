@@ -1,3 +1,3 @@
 # eRum 2018
 
-Repository for purposes of [https://2018.erum.io/](eRum 2018) conference.
+Repository for purposes of [eRum 2018](https://2018.erum.io/) conference.
